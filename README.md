@@ -1,0 +1,2 @@
+# FREEZO
+Termómetro FREEZO
